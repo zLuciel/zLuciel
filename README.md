@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Imagen aleatoria de internet](https://picsum.photos/500/300)
 <!--
 **zLuciel/zLuciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
